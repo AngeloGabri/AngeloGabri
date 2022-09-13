@@ -3,7 +3,6 @@
 
   - 🔭 Hoje trabalho com Front-End.
   - 🌱 Estudando ReactJs/Web Design.
-  - 😄 Pronouns: ele/dele.
 
     <div>
       <a href="https://github.com/angelogabri">
