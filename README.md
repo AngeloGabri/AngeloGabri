@@ -1,4 +1,4 @@
-### Olá! Eu sou o Ângelo Gabriel! :)
+### Olá! Eu sou o Ângelo Gabriel. :)
 
 
   - 🔭 Hoje trabalho com Front-End.
