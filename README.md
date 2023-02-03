@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Ângelo Gabriel. :)
 
 
-  - 🔭 Hoje trabalho com Front-End.
-  - 🌱 Estudando ReactJs/Web Design.
+  - 🔭 Hoje trabalho como Full-Stack.
+  - 🌱 Estudando ReactJs/NodeJs.
 
     <div>
       <a href="https://github.com/angelogabri">
